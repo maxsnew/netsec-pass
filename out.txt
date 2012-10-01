@@ -1,0 +1,321 @@
+Maxs-MacBook-Pro:scripts Max$ ./s
+srinivasbalusu2015@u.northwestern.edu,
+sbb819
+spawn ssh netsec.cs.northwestern.edu -l sbb819
+sbb819@netsec.cs.northwestern.edu's password: 
+Linux netsec 2.6.24-24-server #1 SMP Fri Sep 18 17:24:10 UTC 2009 i686
+
+The programs included with the Ubuntu system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+applicable law.
+
+To access official Ubuntu documentation, please visit:
+http://help.ubuntu.com/
+sbb819@netsec:~$ logged in!
+passwd
+Changing password for sbb819.
+(current) UNIX password: correct
+
+Enter new UNIX password: correct
+
+Retype new UNIX password: correct
+
+passwd: password updated successfully
+Changed: sbb819's pass to sorryman
+halitbolel2013@u.northwestern.edu,
+hsb732
+spawn ssh netsec.cs.northwestern.edu -l hsb732
+hsb732@netsec.cs.northwestern.edu's password: 
+Linux netsec 2.6.24-24-server #1 SMP Fri Sep 18 17:24:10 UTC 2009 i686
+
+The programs included with the Ubuntu system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+applicable law.
+
+To access official Ubuntu documentation, please visit:
+http://help.ubuntu.com/
+hsb732@netsec:~$ logged in!
+passwd
+Changing password for hsb732.
+(current) UNIX password: correct
+
+Enter new UNIX password: correct
+
+Retype new UNIX password: correct
+
+passwd: password updated successfully
+Changed: hsb732's pass to sorryman
+markcartwright2014@u.northwestern.edu,
+mbc113
+spawn ssh netsec.cs.northwestern.edu -l mbc113
+mbc113@netsec.cs.northwestern.edu's password: 
+Linux netsec 2.6.24-24-server #1 SMP Fri Sep 18 17:24:10 UTC 2009 i686
+
+The programs included with the Ubuntu system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+applicable law.
+
+To access official Ubuntu documentation, please visit:
+http://help.ubuntu.com/
+mbc113@netsec:~$ logged in!
+passwd
+Changing password for mbc113.
+(current) UNIX password: correct
+
+Enter new UNIX password: correct
+
+Retype new UNIX password: correct
+
+passwd: password updated successfully
+mbc113@netsec:~$ Changed: mbc113's pass to sorryman
+taylorculbertson2013@u.northwestern.edu,
+tcc263
+spawn ssh netsec.cs.northwestern.edu -l tcc263
+tcc263@netsec.cs.northwestern.edu's password: 
+Linux netsec 2.6.24-24-server #1 SMP Fri Sep 18 17:24:10 UTC 2009 i686
+
+The programs included with the Ubuntu system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+applicable law.
+
+To access official Ubuntu documentation, please visit:
+http://help.ubuntu.com/
+tcc263@netsec:~$ logged in!
+passwd
+Changing password for tcc263.
+(current) UNIX password: correct
+
+Enter new UNIX password: correct
+
+Retype new UNIX password: correct
+
+passwd: password updated successfully
+Changed: tcc263's pass to sorryman
+rossfreiman2013@u.northwestern.edu,
+rhf687
+spawn ssh netsec.cs.northwestern.edu -l rhf687
+rhf687@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+charlesgeter2013@u.northwestern.edu,
+crg505
+spawn ssh netsec.cs.northwestern.edu -l crg505
+crg505@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+stevenhoward2012@u.northwestern.edu,
+smh677
+spawn ssh netsec.cs.northwestern.edu -l smh677
+smh677@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+jeanettehuang2009@u.northwestern.edu,
+jyh286
+spawn ssh netsec.cs.northwestern.edu -l jyh286
+jyh286@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+angelajiang2014@u.northwestern.edu,
+ahj777
+asj936
+spawn ssh netsec.cs.northwestern.edu -l ahj777
+ahj777@netsec.cs.northwestern.edu's password: 
+Linux netsec 2.6.24-24-server #1 SMP Fri Sep 18 17:24:10 UTC 2009 i686
+
+The programs included with the Ubuntu system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+applicable law.
+
+To access official Ubuntu documentation, please visit:
+http://help.ubuntu.com/
+ahj777@netsec:~$ logged in!
+passwd
+Changing password for ahj777.
+(current) UNIX password: correct
+
+Enter new UNIX password: correct
+
+Retype new UNIX password: correct
+
+passwd: password updated successfully
+ahj777@netsec:~$ Changed: ahj777's pass to sorryman
+atuljohri2015@u.northwestern.edu,
+ahj777
+asj936
+spawn ssh netsec.cs.northwestern.edu -l ahj777
+ahj777@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+spawn ssh netsec.cs.northwestern.edu -l asj936
+asj936@netsec.cs.northwestern.edu's password: 
+Linux netsec 2.6.24-24-server #1 SMP Fri Sep 18 17:24:10 UTC 2009 i686
+
+The programs included with the Ubuntu system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+applicable law.
+
+To access official Ubuntu documentation, please visit:
+http://help.ubuntu.com/
+asj936@netsec:~$ logged in!
+passwd
+Changing password for asj936.
+(current) UNIX password: correct
+
+Enter new UNIX password: correct
+
+Retype new UNIX password: correct
+
+passwd: password updated successfully
+asj936@netsec:~$ Changed: asj936's pass to sorryman
+andrewkahn2015@u.northwestern.edu,
+ajk138
+spawn ssh netsec.cs.northwestern.edu -l ajk138
+ajk138@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+daniellieberman2012@u.northwestern.edu,
+djl605
+spawn ssh netsec.cs.northwestern.edu -l djl605
+djl605@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+christophermoran2012@u.northwestern.edu,
+ccm956
+spawn ssh netsec.cs.northwestern.edu -l ccm956
+ccm956@netsec.cs.northwestern.edu's password: 
+Linux netsec 2.6.24-24-server #1 SMP Fri Sep 18 17:24:10 UTC 2009 i686
+
+The programs included with the Ubuntu system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+applicable law.
+
+To access official Ubuntu documentation, please visit:
+http://help.ubuntu.com/
+ccm956@netsec:~$ logged in!
+passwd
+Changing password for ccm956.
+(current) UNIX password: correct
+
+Enter new UNIX password: correct
+
+Retype new UNIX password: correct
+
+passwd: password updated successfully
+Changed: ccm956's pass to sorryman
+maxnew2013@u.northwestern.edu,
+msn688
+spawn ssh netsec.cs.northwestern.edu -l msn688
+msn688@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+ethanromba2013@u.northwestern.edu,
+ejr971
+spawn ssh netsec.cs.northwestern.edu -l ejr971
+ejr971@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+connorschnaith2013@u.northwestern.edu,
+cps612
+spawn ssh netsec.cs.northwestern.edu -l cps612
+cps612@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+chaoshi2012@u.northwestern.edu,
+cps612
+spawn ssh netsec.cs.northwestern.edu -l cps612
+cps612@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+taiyosogawa2013@u.northwestern.edu,
+tfs467
+spawn ssh netsec.cs.northwestern.edu -l tfs467
+tfs467@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+wesleysun2013@u.northwestern.edu,
+wks612
+spawn ssh netsec.cs.northwestern.edu -l wks612
+wks612@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+danielthirman2015@u.northwestern.edu,
+dpt113
+dzt485
+spawn ssh netsec.cs.northwestern.edu -l dpt113
+dpt113@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+spawn ssh netsec.cs.northwestern.edu -l dzt485
+dzt485@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+davidtuber2013@u.northwestern.edu,
+dpt113
+dzt485
+spawn ssh netsec.cs.northwestern.edu -l dpt113
+dpt113@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+spawn ssh netsec.cs.northwestern.edu -l dzt485
+dzt485@netsec.cs.northwestern.edu's password: 
+Linux netsec 2.6.24-24-server #1 SMP Fri Sep 18 17:24:10 UTC 2009 i686
+
+The programs included with the Ubuntu system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+applicable law.
+
+To access official Ubuntu documentation, please visit:
+http://help.ubuntu.com/
+dzt485@netsec:~$ logged in!
+passwd
+Changing password for dzt485.
+(current) UNIX password: correct
+
+Enter new UNIX password: correct
+
+Retype new UNIX password: correct
+
+passwd: password updated successfully
+Changed: dzt485's pass to sorryman
+yeewai2013@u.northwestern.edu,
+ykw556
+spawn ssh netsec.cs.northwestern.edu -l ykw556
+ykw556@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+katherinezhu2013@u.northwestern.edu
+kaz461
+kaz600
+spawn ssh netsec.cs.northwestern.edu -l kaz461
+kaz461@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+spawn ssh netsec.cs.northwestern.edu -l kaz600
+kaz600@netsec.cs.northwestern.edu's password: 
+Permission denied, please try again.
+denied
+
